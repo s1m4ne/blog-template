@@ -1,9 +1,14 @@
 # ブログテンプレート (Blog template)
 
-このリポジトリは、[Tailwind Next.js Starter Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) を基にカスタマイズされたブログテンプレートです。オリジナルのデザインと機能を基に、デザインの変更と一部機能の変更を行いました。個人的に使用していたリポジトリを後からテンプレート化したため、コードにおかしな点やカスタマイズしにくいような構造になっているかもしれません。予めご了承ください。
+このリポジトリは、[Tailwind Next.js Starter Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) を基にカスタマイズされたブログテンプレートです。オリジナルのデザインと機能を基に、デザインの変更と一部機能の変更を行いました。
+
+個人的に使用していたリポジトリを後からテンプレート化したため、コードにおかしな点やカスタマイズしにくいような構造になっているかもしれません。予めご了承ください。
 
 
 This is a blog template customized based on the [Tailwind Next.js Starter Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog). The template has been adjusted and personalized, building upon the original design and features to meet specific requirements.
+
+
+Since I converted a repository that I personally used into a template later, there may be some issues with the code or the structure might not be easy to customize. Please keep that in mind in advance.
 
 ## デモ (Demo)
 
