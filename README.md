@@ -1,27 +1,28 @@
-# ブログテンプレート (Blog template)
-
+## ブログテンプレート (Blog template)
+### 日本語
 このリポジトリは、[Tailwind Next.js Starter Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) を基にカスタマイズされたブログテンプレートです。オリジナルのデザインと機能を基に、デザインの変更と一部機能の変更を行いました。
 
 個人的に使用していたリポジトリを後からテンプレート化したため、コードにおかしな点やカスタマイズしにくいような構造になっているかもしれません。予めご了承ください。
 
-
+### English
 This is a blog template customized based on the [Tailwind Next.js Starter Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog). The template has been adjusted and personalized, building upon the original design and features to meet specific requirements.
 
 
 Since I converted a repository that I personally used into a template later, there may be some issues with the code or the structure might not be easy to customize. Please keep that in mind in advance.
 
 ## デモ (Demo)
-
+### 日本語
 このテンプレートを使って作成したブログのデモは、以下のリンクからアクセスできます：[https://s1m4ne.github.io/blog-template/](https://s1m4ne.github.io/blog-template/)
 
+### English
 This is a demo of the blog created using this template, and it can be accessed from the following link:[https://s1m4ne.github.io/blog-template/](https://s1m4ne.github.io/blog-template/)
 
 
-# ブログテンプレートのカスタマイズ内容(Customizations to the Blog Template)
+## ブログテンプレートのカスタマイズ内容(Customizations to the Blog Template)
 
 ### 日本語
 
-以下は、このブログテンプレートに加えた主な変更点です。
+以下は、[Tailwind Next.js Starter Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)に加えた主な変更点です。
 
 1. **ヘッダーのアニメーション実装**  
    スクロール時に変形するアニメーション付きのヘッダーを実装しました。
@@ -46,7 +47,7 @@ This is a demo of the blog created using this template, and it can be accessed f
 
 ### English
 
-Here are the main changes made to this blog template:
+Here are the main changes made to [Tailwind Next.js Starter Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog):
 
 1. **Header Animation Implementation**  
    Implemented a header with an animation that transforms as you scroll.
@@ -69,9 +70,11 @@ Here are the main changes made to this blog template:
 7. **Layout Changes on Blog Page**  
    Significantly revamped the layout of the Blog page to provide a more modern and intuitive user experience.
 
-# デプロイ方法(Deployment Method)
+## デプロイ方法(Deployment Method)
+### 日本語
 1. リポジトリの Setting > Pages > Source > GitHub Actions を選択します。
 2. main ブランチにコミットしてpushします（README.md を GitHub 上から更新するとすぐに公開できます）。
 
+### English
 1.	Go to the repository’s Settings > Pages > Source and select GitHub Actions.
 2.	Commit and push to the main branch (updating the README.md directly on GitHub will automatically publish the site).
